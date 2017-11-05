@@ -1,0 +1,11 @@
+D:\Lokalno programiranje\Web API\WebAPIDemo\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll.config
+D:\Lokalno programiranje\Web API\WebAPIDemo\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll
+D:\Lokalno programiranje\Web API\WebAPIDemo\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.pdb
+D:\Lokalno programiranje\Web API\WebAPIDemo\EmployeeDataAccess\bin\Debug\EntityFramework.dll
+D:\Lokalno programiranje\Web API\WebAPIDemo\EmployeeDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\Lokalno programiranje\Web API\WebAPIDemo\EmployeeDataAccess\bin\Debug\EntityFramework.xml
+D:\Lokalno programiranje\Web API\WebAPIDemo\EmployeeDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\Lokalno programiranje\Web API\WebAPIDemo\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csprojResolveAssemblyReference.cache
+D:\Lokalno programiranje\Web API\WebAPIDemo\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csproj.CoreCompileInputs.cache
+D:\Lokalno programiranje\Web API\WebAPIDemo\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.dll
+D:\Lokalno programiranje\Web API\WebAPIDemo\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.pdb

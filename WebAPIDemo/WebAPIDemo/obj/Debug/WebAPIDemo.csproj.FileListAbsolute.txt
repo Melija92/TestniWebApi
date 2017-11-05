@@ -1,0 +1,164 @@
+D:\Lokalno programiranje\Web API\WebAPIDemo\WebAPIDemo\bin\ApplicationInsights.config
+D:\Lokalno programiranje\Web API\WebAPIDemo\WebAPIDemo\bin\WebAPIDemo.dll.config
+D:\Lokalno programiranje\Web API\WebAPIDemo\WebAPIDemo\bin\WebAPIDemo.dll
+D:\Lokalno programiranje\Web API\WebAPIDemo\WebAPIDemo\bin\WebAPIDemo.pdb
+D:\Lokalno programiranje\Web API\WebAPIDemo\WebAPIDemo\bin\Antlr3.Runtime.dll
+D:\Lokalno programiranje\Web API\WebAPIDemo\WebAPIDemo\bin\EntityFramework.dll
+D:\Lokalno programiranje\Web API\WebAPIDemo\WebAPIDemo\bin\EntityFramework.SqlServer.dll
+D:\Lokalno programiranje\Web API\WebAPIDemo\WebAPIDemo\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Lokalno programiranje\Web API\WebAPIDemo\WebAPIDemo\bin\Microsoft.AI.DependencyCollector.dll
+D:\Lokalno programiranje\Web API\WebAPIDemo\WebAPIDemo\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Lokalno programiranje\Web API\WebAPIDemo\WebAPIDemo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Lokalno programiranje\Web API\WebAPIDemo\WebAPIDemo\bin\Microsoft.AI.Web.dll
+D:\Lokalno programiranje\Web API\WebAPIDemo\WebAPIDemo\bin\Microsoft.AI.WindowsServer.dll
+D:\Lokalno programiranje\Web API\WebAPIDemo\WebAPIDemo\bin\Microsoft.ApplicationInsights.dll
+D:\Lokalno programiranje\Web API\WebAPIDemo\WebAPIDemo\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Lokalno programiranje\Web API\WebAPIDemo\WebAPIDemo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Lokalno programiranje\Web API\WebAPIDemo\WebAPIDemo\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Lokalno programiranje\Web API\WebAPIDemo\WebAPIDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Lokalno programiranje\Web API\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.dll
+D:\Lokalno programiranje\Web API\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Lokalno programiranje\Web API\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Lokalno programiranje\Web API\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Security.dll
+D:\Lokalno programiranje\Web API\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Lokalno programiranje\Web API\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Security.Google.dll
+D:\Lokalno programiranje\Web API\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Lokalno programiranje\Web API\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Lokalno programiranje\Web API\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Lokalno programiranje\Web API\WebAPIDemo\WebAPIDemo\bin\Microsoft.Web.Infrastructure.dll
+D:\Lokalno programiranje\Web API\WebAPIDemo\WebAPIDemo\bin\Newtonsoft.Json.dll
+D:\Lokalno programiranje\Web API\WebAPIDemo\WebAPIDemo\bin\Owin.dll
+D:\Lokalno programiranje\Web API\WebAPIDemo\WebAPIDemo\bin\System.Net.Http.Formatting.dll
+D:\Lokalno programiranje\Web API\WebAPIDemo\WebAPIDemo\bin\System.Web.Helpers.dll
+D:\Lokalno programiranje\Web API\WebAPIDemo\WebAPIDemo\bin\System.Web.Http.dll
+D:\Lokalno programiranje\Web API\WebAPIDemo\WebAPIDemo\bin\System.Web.Http.Owin.dll
+D:\Lokalno programiranje\Web API\WebAPIDemo\WebAPIDemo\bin\System.Web.Http.WebHost.dll
+D:\Lokalno programiranje\Web API\WebAPIDemo\WebAPIDemo\bin\System.Web.Mvc.dll
+D:\Lokalno programiranje\Web API\WebAPIDemo\WebAPIDemo\bin\System.Web.Optimization.dll
+D:\Lokalno programiranje\Web API\WebAPIDemo\WebAPIDemo\bin\System.Web.Razor.dll
+D:\Lokalno programiranje\Web API\WebAPIDemo\WebAPIDemo\bin\System.Web.WebPages.Deployment.dll
+D:\Lokalno programiranje\Web API\WebAPIDemo\WebAPIDemo\bin\System.Web.WebPages.dll
+D:\Lokalno programiranje\Web API\WebAPIDemo\WebAPIDemo\bin\System.Web.WebPages.Razor.dll
+D:\Lokalno programiranje\Web API\WebAPIDemo\WebAPIDemo\bin\WebGrease.dll
+D:\Lokalno programiranje\Web API\WebAPIDemo\WebAPIDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Lokalno programiranje\Web API\WebAPIDemo\WebAPIDemo\bin\Newtonsoft.Json.xml
+D:\Lokalno programiranje\Web API\WebAPIDemo\WebAPIDemo\bin\System.Net.Http.Formatting.xml
+D:\Lokalno programiranje\Web API\WebAPIDemo\WebAPIDemo\bin\System.Web.Helpers.xml
+D:\Lokalno programiranje\Web API\WebAPIDemo\WebAPIDemo\bin\System.Web.Http.xml
+D:\Lokalno programiranje\Web API\WebAPIDemo\WebAPIDemo\bin\System.Web.Http.WebHost.xml
+D:\Lokalno programiranje\Web API\WebAPIDemo\WebAPIDemo\bin\System.Web.Mvc.xml
+D:\Lokalno programiranje\Web API\WebAPIDemo\WebAPIDemo\bin\System.Web.Optimization.xml
+D:\Lokalno programiranje\Web API\WebAPIDemo\WebAPIDemo\bin\System.Web.Razor.xml
+D:\Lokalno programiranje\Web API\WebAPIDemo\WebAPIDemo\bin\System.Web.WebPages.xml
+D:\Lokalno programiranje\Web API\WebAPIDemo\WebAPIDemo\bin\System.Web.WebPages.Deployment.xml
+D:\Lokalno programiranje\Web API\WebAPIDemo\WebAPIDemo\bin\System.Web.WebPages.Razor.xml
+D:\Lokalno programiranje\Web API\WebAPIDemo\WebAPIDemo\bin\Antlr3.Runtime.pdb
+D:\Lokalno programiranje\Web API\WebAPIDemo\WebAPIDemo\bin\EntityFramework.xml
+D:\Lokalno programiranje\Web API\WebAPIDemo\WebAPIDemo\bin\EntityFramework.SqlServer.xml
+D:\Lokalno programiranje\Web API\WebAPIDemo\WebAPIDemo\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Lokalno programiranje\Web API\WebAPIDemo\WebAPIDemo\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Lokalno programiranje\Web API\WebAPIDemo\WebAPIDemo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Lokalno programiranje\Web API\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.xml
+D:\Lokalno programiranje\Web API\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Lokalno programiranje\Web API\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Security.xml
+D:\Lokalno programiranje\Web API\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Lokalno programiranje\Web API\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Lokalno programiranje\Web API\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Lokalno programiranje\Web API\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Security.Google.xml
+D:\Lokalno programiranje\Web API\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Lokalno programiranje\Web API\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Lokalno programiranje\Web API\WebAPIDemo\WebAPIDemo\bin\System.Web.Http.Owin.xml
+D:\Lokalno programiranje\Web API\WebAPIDemo\WebAPIDemo\bin\Microsoft.ApplicationInsights.xml
+D:\Lokalno programiranje\Web API\WebAPIDemo\WebAPIDemo\bin\Microsoft.AI.DependencyCollector.xml
+D:\Lokalno programiranje\Web API\WebAPIDemo\WebAPIDemo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Lokalno programiranje\Web API\WebAPIDemo\WebAPIDemo\bin\Microsoft.AI.WindowsServer.xml
+D:\Lokalno programiranje\Web API\WebAPIDemo\WebAPIDemo\bin\Microsoft.AI.Web.xml
+D:\Lokalno programiranje\Web API\WebAPIDemo\WebAPIDemo\obj\Debug\WebAPIDemo.csprojResolveAssemblyReference.cache
+D:\Lokalno programiranje\Web API\WebAPIDemo\WebAPIDemo\obj\Debug\WebAPIDemo.csproj.CoreCompileInputs.cache
+D:\Lokalno programiranje\Web API\WebAPIDemo\WebAPIDemo\obj\Debug\WebAPIDemo.dll
+D:\Lokalno programiranje\Web API\WebAPIDemo\WebAPIDemo\obj\Debug\WebAPIDemo.pdb
+D:\Lokalno programiranje\Web API\WebAPIDemo\WebAPIDemo\bin\EmployeeDataAccess.dll
+D:\Lokalno programiranje\Web API\WebAPIDemo\WebAPIDemo\bin\EmployeeDataAccess.pdb
+D:\Lokalno programiranje\Web API\WebAPIDemo\WebAPIDemo\bin\EmployeeDataAccess.dll.config
+D:\Lokalno programiranje\Testni Web Api\WebAPIDemo\WebAPIDemo\bin\ApplicationInsights.config
+D:\Lokalno programiranje\Testni Web Api\WebAPIDemo\WebAPIDemo\bin\WebAPIDemo.dll.config
+D:\Lokalno programiranje\Testni Web Api\WebAPIDemo\WebAPIDemo\bin\WebAPIDemo.dll
+D:\Lokalno programiranje\Testni Web Api\WebAPIDemo\WebAPIDemo\bin\WebAPIDemo.pdb
+D:\Lokalno programiranje\Testni Web Api\WebAPIDemo\WebAPIDemo\bin\Antlr3.Runtime.dll
+D:\Lokalno programiranje\Testni Web Api\WebAPIDemo\WebAPIDemo\bin\EmployeeDataAccess.dll
+D:\Lokalno programiranje\Testni Web Api\WebAPIDemo\WebAPIDemo\bin\EntityFramework.dll
+D:\Lokalno programiranje\Testni Web Api\WebAPIDemo\WebAPIDemo\bin\EntityFramework.SqlServer.dll
+D:\Lokalno programiranje\Testni Web Api\WebAPIDemo\WebAPIDemo\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Lokalno programiranje\Testni Web Api\WebAPIDemo\WebAPIDemo\bin\Microsoft.AI.DependencyCollector.dll
+D:\Lokalno programiranje\Testni Web Api\WebAPIDemo\WebAPIDemo\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Lokalno programiranje\Testni Web Api\WebAPIDemo\WebAPIDemo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Lokalno programiranje\Testni Web Api\WebAPIDemo\WebAPIDemo\bin\Microsoft.AI.Web.dll
+D:\Lokalno programiranje\Testni Web Api\WebAPIDemo\WebAPIDemo\bin\Microsoft.AI.WindowsServer.dll
+D:\Lokalno programiranje\Testni Web Api\WebAPIDemo\WebAPIDemo\bin\Microsoft.ApplicationInsights.dll
+D:\Lokalno programiranje\Testni Web Api\WebAPIDemo\WebAPIDemo\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Lokalno programiranje\Testni Web Api\WebAPIDemo\WebAPIDemo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Lokalno programiranje\Testni Web Api\WebAPIDemo\WebAPIDemo\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Lokalno programiranje\Testni Web Api\WebAPIDemo\WebAPIDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Lokalno programiranje\Testni Web Api\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.dll
+D:\Lokalno programiranje\Testni Web Api\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Lokalno programiranje\Testni Web Api\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Lokalno programiranje\Testni Web Api\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Security.dll
+D:\Lokalno programiranje\Testni Web Api\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Lokalno programiranje\Testni Web Api\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Security.Google.dll
+D:\Lokalno programiranje\Testni Web Api\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Lokalno programiranje\Testni Web Api\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Lokalno programiranje\Testni Web Api\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Lokalno programiranje\Testni Web Api\WebAPIDemo\WebAPIDemo\bin\Microsoft.Web.Infrastructure.dll
+D:\Lokalno programiranje\Testni Web Api\WebAPIDemo\WebAPIDemo\bin\Newtonsoft.Json.dll
+D:\Lokalno programiranje\Testni Web Api\WebAPIDemo\WebAPIDemo\bin\Owin.dll
+D:\Lokalno programiranje\Testni Web Api\WebAPIDemo\WebAPIDemo\bin\System.Net.Http.Formatting.dll
+D:\Lokalno programiranje\Testni Web Api\WebAPIDemo\WebAPIDemo\bin\System.Web.Helpers.dll
+D:\Lokalno programiranje\Testni Web Api\WebAPIDemo\WebAPIDemo\bin\System.Web.Http.dll
+D:\Lokalno programiranje\Testni Web Api\WebAPIDemo\WebAPIDemo\bin\System.Web.Http.Owin.dll
+D:\Lokalno programiranje\Testni Web Api\WebAPIDemo\WebAPIDemo\bin\System.Web.Http.WebHost.dll
+D:\Lokalno programiranje\Testni Web Api\WebAPIDemo\WebAPIDemo\bin\System.Web.Mvc.dll
+D:\Lokalno programiranje\Testni Web Api\WebAPIDemo\WebAPIDemo\bin\System.Web.Optimization.dll
+D:\Lokalno programiranje\Testni Web Api\WebAPIDemo\WebAPIDemo\bin\System.Web.Razor.dll
+D:\Lokalno programiranje\Testni Web Api\WebAPIDemo\WebAPIDemo\bin\System.Web.WebPages.Deployment.dll
+D:\Lokalno programiranje\Testni Web Api\WebAPIDemo\WebAPIDemo\bin\System.Web.WebPages.dll
+D:\Lokalno programiranje\Testni Web Api\WebAPIDemo\WebAPIDemo\bin\System.Web.WebPages.Razor.dll
+D:\Lokalno programiranje\Testni Web Api\WebAPIDemo\WebAPIDemo\bin\WebGrease.dll
+D:\Lokalno programiranje\Testni Web Api\WebAPIDemo\WebAPIDemo\bin\EmployeeDataAccess.pdb
+D:\Lokalno programiranje\Testni Web Api\WebAPIDemo\WebAPIDemo\bin\EmployeeDataAccess.dll.config
+D:\Lokalno programiranje\Testni Web Api\WebAPIDemo\WebAPIDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Lokalno programiranje\Testni Web Api\WebAPIDemo\WebAPIDemo\bin\Newtonsoft.Json.xml
+D:\Lokalno programiranje\Testni Web Api\WebAPIDemo\WebAPIDemo\bin\System.Net.Http.Formatting.xml
+D:\Lokalno programiranje\Testni Web Api\WebAPIDemo\WebAPIDemo\bin\System.Web.Helpers.xml
+D:\Lokalno programiranje\Testni Web Api\WebAPIDemo\WebAPIDemo\bin\System.Web.Http.xml
+D:\Lokalno programiranje\Testni Web Api\WebAPIDemo\WebAPIDemo\bin\System.Web.Http.WebHost.xml
+D:\Lokalno programiranje\Testni Web Api\WebAPIDemo\WebAPIDemo\bin\System.Web.Mvc.xml
+D:\Lokalno programiranje\Testni Web Api\WebAPIDemo\WebAPIDemo\bin\System.Web.Optimization.xml
+D:\Lokalno programiranje\Testni Web Api\WebAPIDemo\WebAPIDemo\bin\System.Web.Razor.xml
+D:\Lokalno programiranje\Testni Web Api\WebAPIDemo\WebAPIDemo\bin\System.Web.WebPages.xml
+D:\Lokalno programiranje\Testni Web Api\WebAPIDemo\WebAPIDemo\bin\System.Web.WebPages.Deployment.xml
+D:\Lokalno programiranje\Testni Web Api\WebAPIDemo\WebAPIDemo\bin\System.Web.WebPages.Razor.xml
+D:\Lokalno programiranje\Testni Web Api\WebAPIDemo\WebAPIDemo\bin\Antlr3.Runtime.pdb
+D:\Lokalno programiranje\Testni Web Api\WebAPIDemo\WebAPIDemo\bin\EntityFramework.xml
+D:\Lokalno programiranje\Testni Web Api\WebAPIDemo\WebAPIDemo\bin\EntityFramework.SqlServer.xml
+D:\Lokalno programiranje\Testni Web Api\WebAPIDemo\WebAPIDemo\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Lokalno programiranje\Testni Web Api\WebAPIDemo\WebAPIDemo\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Lokalno programiranje\Testni Web Api\WebAPIDemo\WebAPIDemo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Lokalno programiranje\Testni Web Api\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.xml
+D:\Lokalno programiranje\Testni Web Api\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Lokalno programiranje\Testni Web Api\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Security.xml
+D:\Lokalno programiranje\Testni Web Api\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Lokalno programiranje\Testni Web Api\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Lokalno programiranje\Testni Web Api\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Lokalno programiranje\Testni Web Api\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Security.Google.xml
+D:\Lokalno programiranje\Testni Web Api\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Lokalno programiranje\Testni Web Api\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Lokalno programiranje\Testni Web Api\WebAPIDemo\WebAPIDemo\bin\System.Web.Http.Owin.xml
+D:\Lokalno programiranje\Testni Web Api\WebAPIDemo\WebAPIDemo\bin\Microsoft.ApplicationInsights.xml
+D:\Lokalno programiranje\Testni Web Api\WebAPIDemo\WebAPIDemo\bin\Microsoft.AI.DependencyCollector.xml
+D:\Lokalno programiranje\Testni Web Api\WebAPIDemo\WebAPIDemo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Lokalno programiranje\Testni Web Api\WebAPIDemo\WebAPIDemo\bin\Microsoft.AI.WindowsServer.xml
+D:\Lokalno programiranje\Testni Web Api\WebAPIDemo\WebAPIDemo\bin\Microsoft.AI.Web.xml
+D:\Lokalno programiranje\Testni Web Api\WebAPIDemo\WebAPIDemo\obj\Debug\WebAPIDemo.csprojResolveAssemblyReference.cache
+D:\Lokalno programiranje\Testni Web Api\WebAPIDemo\WebAPIDemo\obj\Debug\WebAPIDemo.csproj.CoreCompileInputs.cache
+D:\Lokalno programiranje\Testni Web Api\WebAPIDemo\WebAPIDemo\obj\Debug\WebAPIDemo.dll
+D:\Lokalno programiranje\Testni Web Api\WebAPIDemo\WebAPIDemo\obj\Debug\WebAPIDemo.pdb
